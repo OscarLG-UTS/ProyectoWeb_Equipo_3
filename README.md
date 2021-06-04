@@ -3,4 +3,4 @@
 
  
 [Inf_Josue](./jonathan.html)
-[Inf_Josue](./Jorge.html)
+[Inf_Jorge](./Jorge.html)
