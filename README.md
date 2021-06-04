@@ -4,3 +4,5 @@
  
 [Inf_Josue](./jonathan.html)
 [Inf_Jorge](./Jorge.html)
+[Inf_Oscar](./oscar.html)
+[Inf_Daniel](./JDaniel.html)
